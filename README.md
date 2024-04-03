@@ -29,6 +29,6 @@
 
 ### Использованные технологии
 
-*   Java SE 11
+*   Java
 *   Spring Boot
 * Web
